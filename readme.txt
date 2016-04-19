@@ -35,6 +35,12 @@ Example Usage (Large): `[fbs link="http://anylink.com/" size="large"]`
 
 This can be used inside the content area where ever the shortcodes work.
 
+== Screenshots ==
+
+1. Facebook Save Button Demo
+2. Settings page
+
+
 == Installation ==
 
 Install/Activate the plugin and go to Settings > FB Save Buttons page to configure it.
@@ -57,11 +63,6 @@ You can use `[fbs]` shortcode to add fb save button anywhere you want.
 - Example Usage (Small): `[fbs link="http://anylink.com/" size="small"]`
 - Example Usage (Large): `[fbs link="http://anylink.com/" size="large"]`
 This can be used inside the content area where ever the shortcodes work.
-
-== Screenshots ==
-
-1. Facebook Save Button Demo
-2. Settings page
 
 == Changelog ==
 
