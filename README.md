@@ -1,4 +1,12 @@
-# FB-Save-Button-For-WP
+# FB Save Button For WP
+
+[![WP](https://img.shields.io/badge/WordPress-%E2%86%92-lightgrey.svg?style=flat-square)](https://wordpress.org/plugins/fb-save-button-for-wp/)
+[![WP Plugin Version](https://img.shields.io/wordpress/plugin/v/fb-save-button-for-wp.svg?style=flat-square&label=version)](https://wordpress.org/plugins/fb-save-button-for-wp/)
+[![WP Downloads](https://img.shields.io/wordpress/plugin/dt/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/plugins/fb-save-button-for-wp/)
+[![WP Rating](https://img.shields.io/wordpress/plugin/r/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/fb-save-button-for-wp?filter=5)
+[![License](https://img.shields.io/badge/license-GPL%20v2.0-lightgrey.svg?style=flat-square)](https://github.com/WPTie/CF7Customizer/blob/master/license.txt)
+
+
 FB-Save-Button-For-WP plugin adds a facebook save button to your posts, pages, before/after content and provides you with [fbs] shortcode to add the button anywhere you want.
 
 ![](https://i.imgur.com/GP7XeF1.png)
