@@ -11,10 +11,10 @@ FB-Save-Button-For-WP plugin adds a facebook save button to your posts, pages, b
 
 ![](https://i.imgur.com/GP7XeF1.png)
 
-###What is Facebook Save Button?
+### What is Facebook Save Button?
 The save button lets people save items or services to a private list on Facebook, share it with friends, and receive relevant notifications. For example, a person can save an item of clothing, trip, or link that they're thinking about and go back to that list for future consumption, or get notified when that item or trip has a promotional deal.
 
-##Features
+## Features
 - Add fb-Save-Button to Posts
 - Add fb-Save-Button to Pages
 - Add fb-Save-Button to Before Content
@@ -31,7 +31,7 @@ Example Usage (Large): `[fbs link="http://anylink.com/" size="large"]`
 
 This can be used inside the content area where ever the shortcodes work.
 
-##Plugin Data
+## Plugin Data
 ```
 /**
  * Plugin Name: FB Save Button for WP
