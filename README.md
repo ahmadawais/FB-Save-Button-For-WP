@@ -37,7 +37,7 @@ This can be used inside the content area where ever the shortcodes work.
  * Plugin Name: FB Save Button for WP
  * Plugin URI: https://github.com/WPTie/FB-Save-Button-For-WP
  * Description: Adds Facebook save button to your WordPress site.
- * Author: mrahmadawais, WPTie
+ * Author: WPCouple(Ahmad Awais & Maedah Batool)
  * Author URI: http://AhmadAwais.com/
  * Version: 1.0.0
  * License: GPL2+

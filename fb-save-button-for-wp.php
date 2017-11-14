@@ -3,8 +3,8 @@
  * Plugin Name: FB Save Button for WP
  * Plugin URI: https://github.com/WPTie/FB-Save-Button-For-WP
  * Description: Adds Facebook save button to your WordPress site.
- * Author: mrahmadawais, WPTie
- * Author URI: http://AhmadAwais.com/
+ * Author: WPCouple(Ahmad Awais & Maedah Batool)
+ * Author URI: https://AhmadAwais.com/
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -16,7 +16,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
 
 /**
  * Define global constants.
